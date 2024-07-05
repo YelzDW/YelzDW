@@ -1,6 +1,6 @@
 ## Yelz / Infos
 
-- I'm a junior web developer with a passion for creating dynamic and responsive websites. With just a year of experience under my belt, I'm excited to continue learning and growing in the field.
+- I'm a junior front-end programer, With just a year of experience under my belt, I'm excited to continue learning and growing in the field.
 - 💻 Ask me about anything related to HTML, CSS, and JavaScript – I love sharing what I know!
 - 📫 How to reach me:
 - Email: elisiarioyago@gmail.com
